@@ -27,7 +27,6 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <h1 className="p-8 bg-white text-stone-700 border-2">this is root parent layoput form the app folder</h1>
         {children}
       </body>
     </html>
