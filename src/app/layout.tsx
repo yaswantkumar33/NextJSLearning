@@ -40,9 +40,6 @@ export default function RootLayout({
               <Link href="/dashboard/settings">Settings</Link>
             </li>
           </ul>
-          <h1 className="text-white p-8 bg-stone-500">
-            Child Layout from dashborad
-          </h1>
         </nav>
         {children}
       </body>
