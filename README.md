@@ -29,6 +29,11 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+##Important Topics
+###Server and clientt components
+
+- Docs : https://nextjs.org/docs/app/getting-started/server-and-client-components
+
 ## Dm For video Doc
 
 Email : yaswantkumar1512@gmail.com

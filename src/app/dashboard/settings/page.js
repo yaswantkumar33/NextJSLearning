@@ -1,4 +1,4 @@
-"use client";
+"use client"; //to let nextjs know this is a client component
 import { useRouter } from "next/navigation";
 export default function Settings() {
   const router = useRouter();
